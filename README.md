@@ -75,6 +75,3 @@ bash
 Copy
 Edit
 
-### Notes:
-- Be sure to replace `https://github.com/yourusername/file-encryption.git` with the actual URL of your GitHub repository.
-- You can modify the "LICENSE" link to reflect the license you choose for the repository.
